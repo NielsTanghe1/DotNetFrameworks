@@ -4,6 +4,7 @@ using Models;
 using System.ComponentModel;
 using System.Windows;
 using Models.CustomServices;
+using Models.Extensions;
 
 namespace GardenPlanner_WPF {
 	public partial class App : Application {

@@ -26,7 +26,7 @@ html {
 
 body {
     margin-bottom: 60px;
-    background: linear-gradient(rgba(0,0, 0,0.4), rgba(0,0,0,0.4)), url(https://images.pexels.com/photos/158028/bellingrath-gardens-alabama-landscape-scenic-158028.jpeg?cs=srgb&dl=pexels-pixabay-158028.jpg&fm=jpg);
+    background: linear-gradient(rgba(0,0, 0,0.4), rgba(0,0,0,0.4)), url(https://images.unsplash.com/photo-1717407026956-db8029619ae3?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-size: cover;
 }
 
